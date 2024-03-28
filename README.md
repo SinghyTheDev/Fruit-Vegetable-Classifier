@@ -13,4 +13,4 @@ A CNN model is trained which is made up of 3 convolutional layers of 32, 64, 128
 On unseen test data, the model has an accuracy of 96% and an F1 score of 0.97.
 
 ## Conclusion
-The classifier demonstrates very high accuracy and robustness in classifying fruits and vegetables and therefore offers effective contribution towards the field of automated agriculture.
+The classifier demonstrates very high accuracy and robustness in classifying fruits and vegetables, offering effective contribution towards the field of automated agriculture.
