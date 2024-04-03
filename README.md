@@ -1,6 +1,6 @@
 # Fruit and Vegetable Classifier
 
-## Overview
+## Description
 This project creates an image classifier for 36 different categories of fruits and vegetables by implementing a Convolutional Neural Network (CNN).
 
 ## Data Pre-Processing
